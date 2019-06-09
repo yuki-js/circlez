@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "yuki-js.github.io/circlez/static/css/main.19393e92.chunk.css",
+    "main.js": "yuki-js.github.io/circlez/static/js/main.9dc1d6a2.chunk.js",
+    "main.js.map": "yuki-js.github.io/circlez/static/js/main.9dc1d6a2.chunk.js.map",
+    "runtime~main.js": "yuki-js.github.io/circlez/static/js/runtime~main.d4bba703.js",
+    "runtime~main.js.map": "yuki-js.github.io/circlez/static/js/runtime~main.d4bba703.js.map",
+    "static/js/2.be50d1b9.chunk.js": "yuki-js.github.io/circlez/static/js/2.be50d1b9.chunk.js",
+    "static/js/2.be50d1b9.chunk.js.map": "yuki-js.github.io/circlez/static/js/2.be50d1b9.chunk.js.map",
+    "index.html": "yuki-js.github.io/circlez/index.html",
+    "precache-manifest.8d224d1c0fa5055d878d0cd54fd44c65.js": "yuki-js.github.io/circlez/precache-manifest.8d224d1c0fa5055d878d0cd54fd44c65.js",
+    "service-worker.js": "yuki-js.github.io/circlez/service-worker.js",
+    "static/css/main.19393e92.chunk.css.map": "yuki-js.github.io/circlez/static/css/main.19393e92.chunk.css.map"
+  }
+}
